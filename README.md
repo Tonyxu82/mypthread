@@ -1,6 +1,6 @@
 # User Level Thread Library
 
-###### Lai Xu 929272440 (xulai@pdx.edu), Bo Chen 904039384 (chenbo@pdx.edu)
+###### Tony Xu, Bo Chen
 
 ## Motivation
 
